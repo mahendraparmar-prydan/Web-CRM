@@ -1,0 +1,12 @@
+.form-control{
+    border: 1px solid #ff7c07;
+    width: 350px;
+    /* margin-bottom: 5px; */
+}
+.login-text{
+    color: #ff7c07;
+}
+.hrline{
+    color: #ff7c07;
+    width: 350px;
+}
